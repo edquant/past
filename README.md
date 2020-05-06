@@ -1,5 +1,7 @@
 # Past courses
 
+This repository hosts past versions of edquant courses.
+
 ## 2020
 
 ### Spring
