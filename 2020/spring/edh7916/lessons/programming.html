@@ -23,7 +23,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>EDH 7916: Contemporary Research in Higher Education<a href="https://github.com/edquant/past/2020/spring/edh7916" class="iconlink">
+        <h1>EDH 7916: Contemporary Research in Higher Education<a href="https://github.com/edquant/past" class="iconlink">
 	      <i class="fab fa-github fa-sm"></i></a></h1>
 	<h2 class="thin">Spring 2020</h2>
 	<p>A course in quantitative research workflow for students in
@@ -698,16 +698,16 @@ everything will work the same.</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># A tibble: 100 x 4
       id   age sibage parage
    &lt;int&gt; &lt;dbl&gt;  &lt;dbl&gt;  &lt;dbl&gt;
- 1     1   -97      8     55
- 2     2   -97     11    -98
- 3     3    12      7    -98
- 4     4    14      7     47
- 5     5    15     10     49
- 6     6    20      7     54
- 7     7    14      5     52
- 8     8    14      5     54
- 9     9    18      7     51
-10    10    17      9    -98
+ 1     1   -97      9     46
+ 2     2    12     10     52
+ 3     3    18      7     49
+ 4     4    12     12     49
+ 5     5    16     12     54
+ 6     6    13      9     47
+ 7     7    13      6     45
+ 8     8   -97     11     48
+ 9     9    19      7     54
+10    10    20      5     54
 # … with 90 more rows
 </code></pre></div></div>
 
@@ -743,17 +743,17 @@ can change it each time we call the function. Let’s try it out.</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># A tibble: 11 x 2
      age     n
    &lt;dbl&gt; &lt;int&gt;
- 1   -97    11
- 2    11     9
+ 1   -97    15
+ 2    11     7
  3    12     7
- 4    13     7
- 5    14    10
- 6    15     8
+ 4    13    16
+ 5    14     9
+ 6    15     7
  7    16     5
- 8    17    14
- 9    18     8
-10    19    10
-11    20    11
+ 8    17     9
+ 9    18    12
+10    19     8
+11    20     5
 </code></pre></div></div>
 
 <div class="language-r highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">## missing values in age are coded as -97</span><span class="w">
@@ -768,17 +768,17 @@ can change it each time we call the function. Let’s try it out.</p>
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># A tibble: 11 x 2
      age     n
    &lt;dbl&gt; &lt;int&gt;
- 1    11     9
+ 1    11     7
  2    12     7
- 3    13     7
- 4    14    10
- 5    15     8
+ 3    13    16
+ 4    14     9
+ 5    15     7
  6    16     5
- 7    17    14
- 8    18     8
- 9    19    10
-10    20    11
-11    NA    11
+ 7    17     9
+ 8    18    12
+ 9    19     8
+10    20     5
+11    NA    15
 </code></pre></div></div>
 
 <p>It worked! All the values that were -97 before, are now in the <code class="language-plaintext highlighter-rouge">NA</code>
