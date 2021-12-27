@@ -17,3 +17,7 @@ the following command:
 ```bash
 grep -rl "edh7916" . | xargs sed -i '' 's#edh7916#past/edh7916/2020/summer#g'
 ```
+
+**NOTE** `sed` will take more than `/` as a delimiter between
+`s/OLD/NEW/g`. Since the replacement text has slashes, the hash symbol
+`#` works well.
