@@ -2,7 +2,7 @@
 
 Assignments will appear in this directory as they are added to the
 course site. You can also access them at
-[edquant.github.io/edh7916/assignments/](https://edquant.github.io/edh7916/assignments/).
+[edquant.github.io/past/edh7916/2020/summer/assignments/](https://edquant.github.io/past/edh7916/2020/summer/assignments/).
 
 Unless otherwise noted, assignments are due one week from the time
 they are given. You will submit your work via your personal GitHub

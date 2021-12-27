@@ -1,6 +1,6 @@
 ## general knit options
 knitr::opts_knit$set(base.url="",
-                     base.dir="/Users/benski/orgs/edquant/edh7916/figures/")
+                     base.dir="/Users/benski/orgs/edquant/past/edh7916/2020/summer/figures/")
 
 knitr::opts_chunk$set(fig.path="../figures/",
                       dpi=90,
