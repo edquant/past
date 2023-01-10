@@ -3,6 +3,7 @@
 ## PhD versions
 
 - Spring 2020
+- Spring 2022
 
 ## EdD versions
 
