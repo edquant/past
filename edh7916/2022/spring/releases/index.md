@@ -10,7 +10,7 @@ with a release number. This allows users to see all changes over time
 and go back to earlier versions of the class if necessary.
 
 Releases pull directly from
-[GitHub](https://github.com/edquant/edh7916/releases). Release
+[GitHub](https://github.com/edquant/past/edh7916/2022/spring/releases). Release
 numbers, `v<1>.<2>.<3>` follow the general format of:
 
 - `<1>`: Course

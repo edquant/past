@@ -13,7 +13,7 @@ linked at the top of the page.
 All modules assume the directory structure below. 
 
 ```
-edh7916/
+past/edh7916/2022/spring/
 |
 |__ data/
 |   |
@@ -29,14 +29,14 @@ edh7916/
 ```
 
 When running scripts in RStudio, the working directory should be
-`path/to/edh7916/scripts`. You can check in RStudio
+`path/to/past/edh7916/2022/spring/scripts`. You can check in RStudio
 by typing `getwd()` in the console. For example, let's say you've
 saved the files in a folder called `courses`, which is in your home
 directory. Then you should see (if on a Mac):
 
 ```r
 > getwd()
-[1] "/Users/benski/courses/edh7916/scripts"
+[1] "/Users/benski/courses/past/edh7916/2022/spring/scripts"
 ```
 
 ## Lessons

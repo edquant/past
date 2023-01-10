@@ -6,14 +6,14 @@ custom_js:
 ---
 
 <a class="github-button"
-href="https://github.com/edquant/edh7916/issues?q=is%3Aissue+is%3Aopen" data-size="large"
-data-show-count="false" aria-label="Issue edquant/edh7916 on
+href="https://github.com/edquant/past/edh7916/2022/spring/issues?q=is%3Aissue+is%3Aopen" data-size="large"
+data-show-count="false" aria-label="Issue edquant/past/edh7916/2022/spring on
 GitHub">Issue</a>
 
 If you have a question about the course, please file an <a
 class="github-button"
-href="https://github.com/edquant/edh7916/issues?q=is%3Aissue+is%3Aopen"
-aria-label="Issue edquant/edh7916 on GitHub">Issue</a> on our course
+href="https://github.com/edquant/past/edh7916/2022/spring/issues?q=is%3Aissue+is%3Aopen"
+aria-label="Issue edquant/past/edh7916/2022/spring on GitHub">Issue</a> on our course
 site's GitHub repository. This will allow others --- who likely have a
 similar question --- to see and even participate in the discussion and
 resolution. You'll need to sign into GitHub with your account, but you
@@ -37,7 +37,7 @@ just send me an email if you have a FERPA-related question (_e.g._
 grades, extensions, _etc_).**
 
 One last note: when looking at past issues, you may want to look at
-both the [Open](https://github.com/edquant/edh7916/issues) and
-[Closed](https://github.com/edquant/edh7916/issues?q=is%3Aissue+is%3Aclosed)
+both the [Open](https://github.com/edquant/past/edh7916/2022/spring/issues) and
+[Closed](https://github.com/edquant/past/edh7916/2022/spring/issues?q=is%3Aissue+is%3Aclosed)
 issues. A closed issue is just one that has been answered in a past
 version of the course. It may have the answer you need.
