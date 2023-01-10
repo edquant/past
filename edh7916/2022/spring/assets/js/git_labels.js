@@ -1,6 +1,3 @@
----
----
-
 var urlToGetLabels = "https://api.github.com/repos/edquant/past/edh7916/2022/spring/labels";
 
 function returnColor(val) {
